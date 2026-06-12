@@ -19,3 +19,10 @@ Epoch 170/200, Loss: 0.2149
 Epoch 180/200, Loss: 0.2142
 Epoch 190/200, Loss: 0.2165
 Epoch 200/200, Loss: 0.2099
+Training Log Explanation
+
+The model was trained for 200 epochs instead of using extremely high training time because this project is a small-scale reproduction of the CBOW idea, not a full-scale reproduction of the original paper. The original Word2Vec paper trained on very large corpora, while this implementation uses a smaller curated corpus and limited compute.
+
+The loss decreased from 5.0653 to 0.2099, which shows that the model learned patterns from the training corpus. Some small fluctuations are visible between epochs because the data is shuffled and Adam updates weights batch by batch. The important observation is the overall downward trend, not a perfect decrease at every epoch.
+
+After around 150-200 epochs, the loss started decreasing very slowly, so training for many more epochs would likely give limited improvement and could also overfit the small corpus. Therefore, 200 epochs was chosen as a reasonable balance between learning, runtime, and avoiding unnecessary overtraining.

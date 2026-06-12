@@ -1,0 +1,96 @@
+Nearest Neighbor Results
+
+Word: king
+queen: 0.4143
+runs: 0.3813
+throne: 0.3691
+follows: 0.3367
+program: 0.3294
+
+Word: queen
+king: 0.4143
+swimming: 0.3771
+siblings: 0.3101
+can: 0.2908
+boy: 0.237
+
+Word: man
+rules: 0.3397
+apple: 0.3014
+female: 0.2537
+more: 0.2277
+adults: 0.2211
+
+Word: woman
+child: 0.3577
+apples: 0.3252
+female: 0.295
+live: 0.2918
+son: 0.2687
+
+Word: paris
+smallest: 0.3123
+berlin: 0.3076
+largest: 0.2877
+sits: 0.2759
+princess: 0.2599
+
+Word: france
+processor: 0.3695
+tokyo: 0.3677
+country: 0.3545
+germany: 0.3283
+fur: 0.3
+
+Word: cat
+computer: 0.2841
+plays: 0.2814
+palaces: 0.2578
+written: 0.2453
+cats: 0.2325
+
+Word: dog
+follows: 0.3135
+rules: 0.2573
+pets: 0.2474
+sits: 0.2427
+study: 0.2279
+
+Word: computer
+wears: 0.3115
+cat: 0.2841
+builds: 0.279
+understand: 0.2597
+kitten: 0.2553
+
+Word: software
+an: 0.4059
+common: 0.2908
+problems: 0.2764
+prepare: 0.2721
+memory: 0.2595
+
+Word: student
+larger: 0.2858
+fastest: 0.2852
+mathematics: 0.2733
+pet: 0.256
+father: 0.2552
+
+Analogy Tests
+
+man is to king as woman is to ?
+queen: 0.5591
+program: 0.4266
+as: 0.3983
+
+france is to paris as germany is to ?
+of: 0.465
+city: 0.464
+palace: 0.4178
+
+cat is to kitten as dog is to ?
+follows: 0.6485
+throne: 0.3858
+palace: 0.3654
+

@@ -1,0 +1,210 @@
+king queen prince princess royal palace crown kingdom throne ruler monarch
+the king is a royal man
+the queen is a royal woman
+the king wears a crown
+the queen wears a crown
+the king sits on the throne
+the queen sits on the throne
+the prince is a royal boy
+the princess is a royal girl
+the prince lives in the palace
+the princess lives in the palace
+the royal family lives in the kingdom
+the king rules the kingdom
+the queen rules the kingdom
+a monarch can be a king or queen
+a prince can become a king
+a princess can become a queen
+royal people live in palaces
+the palace belongs to the royal family
+the crown is worn by the king
+the crown is worn by the queen
+
+man woman boy girl father mother brother sister son daughter family adult child
+a man is an adult male
+a woman is an adult female
+a boy is a young male
+a girl is a young female
+father is a man in a family
+mother is a woman in a family
+brother is a boy in a family
+sister is a girl in a family
+son is a boy child
+daughter is a girl child
+father and mother are parents
+brother and sister are siblings
+man and woman are adults
+boy and girl are children
+a family can have father mother son and daughter
+a family can have brother and sister
+a man can be a father
+a woman can be a mother
+a boy can be a son
+a girl can be a daughter
+
+france paris germany berlin italy rome india delhi japan tokyo country city capital
+paris is the capital of france
+berlin is the capital of germany
+rome is the capital of italy
+delhi is the capital of india
+tokyo is the capital of japan
+france is a country
+germany is a country
+italy is a country
+india is a country
+japan is a country
+paris is a city
+berlin is a city
+rome is a city
+delhi is a city
+tokyo is a city
+france has capital paris
+germany has capital berlin
+italy has capital rome
+india has capital delhi
+japan has capital tokyo
+the city paris belongs to france
+the city berlin belongs to germany
+the city rome belongs to italy
+the city delhi belongs to india
+the city tokyo belongs to japan
+people visit paris in france
+people visit berlin in germany
+people visit rome in italy
+people visit delhi in india
+people visit tokyo in japan
+
+cat dog kitten puppy animal pet tail fur bark meow
+cat is an animal
+dog is an animal
+cat is a pet
+dog is a pet
+kitten is a young cat
+puppy is a young dog
+a cat says meow
+a dog says bark
+cats have fur
+dogs have fur
+cats have tails
+dogs have tails
+kitten and puppy are young animals
+cat and dog are common pets
+a kitten grows into a cat
+a puppy grows into a dog
+people keep cats as pets
+people keep dogs as pets
+the cat plays with the kitten
+the dog plays with the puppy
+the kitten follows the cat
+the puppy follows the dog
+
+computer software hardware code program data algorithm developer engineer machine memory processor
+a computer runs software
+a computer uses hardware
+software is written with code
+a program is made of code
+an algorithm uses data
+a program uses an algorithm
+hardware includes memory and processor
+software runs on hardware
+a developer writes code
+an engineer builds software
+students write programs
+programs process data
+algorithms solve problems
+computer science studies algorithms
+software developers use computers
+a processor runs instructions
+memory stores data
+a computer has memory
+a computer has a processor
+code becomes a program
+a program runs on a computer
+software engineers write programs
+data is used by algorithms
+algorithms are used in software
+
+student teacher school college exam study learn subject classroom book education
+a student studies in school
+a student studies in college
+a teacher teaches students
+students learn subjects
+students prepare for exams
+teachers teach in classrooms
+students read books
+college students study computer science
+school students learn mathematics
+students write exams
+teachers explain subjects
+education happens in school and college
+a classroom has students and teacher
+a book helps a student learn
+students study from books
+a teacher gives an exam
+a student takes an exam
+students learn from teachers
+teachers help students understand
+college has students and teachers
+
+big bigger biggest small smaller smallest fast faster fastest slow slower slowest
+big becomes bigger
+bigger becomes biggest
+small becomes smaller
+smaller becomes smallest
+fast becomes faster
+faster becomes fastest
+slow becomes slower
+slower becomes slowest
+a big object is larger than a small object
+a bigger object is larger than big
+the biggest object is the largest
+a smaller object is less large
+the smallest object is least large
+fast means quick
+faster means more quick
+fastest means most quick
+slow means not fast
+slower means more slow
+slowest means most slow
+
+walk walking walked run running ran swim swimming swam read reading read write writing wrote
+walk becomes walking
+walk becomes walked
+run becomes running
+run becomes ran
+swim becomes swimming
+swim becomes swam
+read becomes reading
+write becomes writing
+write becomes wrote
+a person can walk
+a person is walking
+a person walked yesterday
+a person can run
+a person is running
+a person ran yesterday
+a person can swim
+a person is swimming
+a person swam yesterday
+a student can read
+a student is reading
+a student can write
+a student is writing
+a student wrote code
+
+apple banana mango fruit sweet tree food
+apple is a fruit
+banana is a fruit
+mango is a fruit
+fruit is food
+apple grows on a tree
+mango grows on a tree
+banana is sweet
+mango is sweet
+apple is sweet
+people eat fruit
+people eat apples
+people eat bananas
+people eat mangoes
+fruit can be healthy food
+apple banana and mango are fruits

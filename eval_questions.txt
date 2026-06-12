@@ -1,0 +1,13 @@
+: capital-country
+france paris germany berlin
+germany berlin italy rome
+italy rome france paris
+
+: family-gender
+man king woman queen
+boy prince girl princess
+woman queen man king
+
+: animal-young
+cat kitten dog puppy
+dog puppy cat kitten

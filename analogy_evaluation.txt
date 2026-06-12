@@ -1,0 +1,39 @@
+Analogy Evaluation
+
+Total questions attempted: 8
+Skipped questions: 0
+Top-1 accuracy: 25.0%
+Top-3 accuracy: 25.0%
+
+france is to paris as germany is to ?
+Expected: berlin
+Predicted Top-3: of, city, palace
+
+germany is to berlin as italy is to ?
+Expected: rome
+Predicted Top-3: paris, of, bananas
+
+italy is to rome as france is to ?
+Expected: paris
+Predicted Top-3: country, delhi, tokyo
+
+man is to king as woman is to ?
+Expected: queen
+Predicted Top-3: queen, program, as
+
+boy is to prince as girl is to ?
+Expected: princess
+Predicted Top-3: live, takes, gives
+
+woman is to queen as man is to ?
+Expected: king
+Predicted Top-3: king, swimming, teachers
+
+cat is to kitten as dog is to ?
+Expected: puppy
+Predicted Top-3: follows, throne, palace
+
+dog is to puppy as cat is to ?
+Expected: kitten
+Predicted Top-3: common, pet, walking
+

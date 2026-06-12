@@ -94,3 +94,13 @@ follows: 0.6485
 throne: 0.3858
 palace: 0.3654
 
+Nearest Neighbors Explanation
+
+Nearest-neighbor evaluation checks which learned word vectors are closest to a selected input word. Cosine similarity is used for comparison, so words with similar vector directions get higher similarity scores.
+
+This evaluation helps us inspect whether the CBOW model learned meaningful relationships from context. For example, if words like software, code, hardware, student, college, king, queen, and kingdom appear close to related words, it suggests that the embeddings captured some useful patterns from the corpus.
+
+The results are not expected to be perfect because the corpus is still very small compared to the original Word2Vec paper. Some unrelated words may appear as nearest neighbors because certain words occur in similar repeated sentence structures or do not appear enough times to learn strong representations.
+
+So this file is used as a qualitative check. It shows what the model learned well and where the learned embeddings are still noisy.
+
